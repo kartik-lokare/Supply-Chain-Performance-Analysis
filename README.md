@@ -92,7 +92,7 @@ vendor-performance-analysis/
   - Avg Delivery Time
   - Performance
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](images/Supply_Chain.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
