@@ -120,5 +120,5 @@ git clone https://github.com/yourusername/vendor-performance-analysis.git
 
 **Kartik Lokare**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
+📧 Email:[kartiklokare8@gmali.com](kartiklokare8@gmali.com)
 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
