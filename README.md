@@ -97,7 +97,7 @@ vendor-performance-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+[https://github.com/kleditsbat-art/Supply-Chain-Performance-Analysis]
 ```
 2. Open and run notebooks:
    - `notebooks/Supply Chain Notebook.ipynb`
